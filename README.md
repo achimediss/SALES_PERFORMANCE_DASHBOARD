@@ -1,3 +1,6 @@
+## 📊 Dashboard
+![Sales Dashboard](images/Sales_Performance_Dashboard(Final).png)
+
 # 📊 Sales Performance Dashboard
 Sales analysis project using Excel, SQL, and Power BI
 
